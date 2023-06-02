@@ -1,6 +1,6 @@
 @charset 'UTF-8';
 body{
-    background-image: radial-gradient(circle, blue, green, rgb(170, 170, 70), gray);
+    background-image: radial-gradient(circle, rgba(0, 0, 255, 0.63), rgba(0, 128, 0, 0.616), rgba(148, 148, 71, 0.568), gray);
     background-color: rgb(241, 236, 236);
     font-size: 14px;
     font-family: 'Times New Roman', Times, serif;
